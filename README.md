@@ -129,7 +129,18 @@ output-2025-05-21-10-00-unresolved/     # only if --save-unresolved is set
 ## 🧑💻 Author
 
 **Andrey Arapov**
+
 GitHub: [@arno01](https://github.com/arno01)
+
+---
+
+## ⚡ Support the project with Bitcoin Lightning
+
+You can scan this Lightning address QR code from your terminal or directly here on GitHub:
+
+➡️  [lightning:andynostr@walletofsatoshi.com](lightning:andynostr@walletofsatoshi.com)
+
+![Donate via Lightning](lightning.png)
 
 ---
 
